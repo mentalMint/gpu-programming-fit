@@ -23,7 +23,7 @@ ECC Enabled: Yes
 ## Вывод программы
 Iterations number: 10000 \
 Shared memory time (avg): 47764 ns \
-Texture memory time (avg): 40803 ns \
+Texture memory time (avg): 40803 ns
 
 ## Выводы
 Использование текстурной памяти ускоряет программу в ~1.17 раз. Это происходит благодаря переиспользованию значений пикселей. 
